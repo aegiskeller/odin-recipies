@@ -1,0 +1,25 @@
+body {
+    background-color: white;
+color: #D2B48C;
+}
+h1 {
+    font-family: Arial, sans-serif;
+    font-size: 24px;
+    font-weight: bold;
+}
+h2 {
+    font-family: Arial, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+}
+h3 {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.listus{
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+}
